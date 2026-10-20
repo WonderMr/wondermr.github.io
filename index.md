@@ -79,6 +79,6 @@
 - Могу организовать не только своё время.
 
 ## Ссылки
-- [Agents-Core](https://github.com/IEZhu/Agents) — локальный MCP-сервер для Claude, Codex и Cursor: роли-специалисты, флоу, память репозитория и проверка результатов субагентов
+- [Agents-Core](https://agents-core.ai) — локальный MCP-сервер для Claude, Codex и Cursor: роли-специалисты, флоу, память репозитория и проверка результатов субагентов ([исходный код](https://github.com/IEZhu/Agents))
 - [blincho](https://blincho.app) — бесплатные напоминания о перерывах для глаз для macOS, Windows и Linux ([исходный код](https://github.com/WonderMr/blincho))
 - [Профиль на Инфостарт](http://infostart.ru/profile/232316/public/)

@@ -6,7 +6,7 @@ Each repository below has an AGENTS.md with layout, commands and conventions for
 
 ## AI agents and desktop apps
 
-- [Agents-Core](https://github.com/IEZhu/Agents): local MCP server with specialist personas, Markdown workflows, per-repository memory and validated subagent handoffs for Claude, Codex, Cursor and other AI clients
+- [Agents-Core](https://github.com/IEZhu/Agents): local MCP server with specialist personas, Markdown workflows, per-repository memory and validated subagent handoffs for Claude, Codex, Cursor and other AI clients (https://agents-core.ai)
 - [blincho](https://github.com/WonderMr/blincho): free screen break reminder for macOS, Windows and Linux (https://blincho.app)
 - [shi](https://github.com/IEZhu/shi): local meeting transcriber for macOS with on-device speech-to-text and speaker diarization
 - [sshgate](https://github.com/IEZhu/sshgate): opens a ufw firewall port for your current IP via a secret HTTPS link + TOTP
