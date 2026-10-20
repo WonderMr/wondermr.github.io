@@ -1,0 +1,23 @@
+# WonderMr (Alexey Zhuchkov)
+
+> Open-source projects by GitHub user WonderMr: AI agent tooling, desktop utilities and 1C:Enterprise administration tools.
+
+Each repository below has an AGENTS.md with layout, commands and conventions for coding agents. Most also have their own llms.txt.
+
+## AI agents and desktop apps
+
+- [Agents-Core](https://github.com/IEZhu/Agents): local MCP server with specialist personas, Markdown workflows, per-repository memory and validated subagent handoffs for Claude, Codex, Cursor and other AI clients
+- [blincho](https://github.com/WonderMr/blincho): free screen break reminder for macOS, Windows and Linux (https://blincho.app)
+- [shi](https://github.com/IEZhu/shi): local meeting transcriber for macOS with on-device speech-to-text and speaker diarization
+- [sshgate](https://github.com/IEZhu/sshgate): opens a ufw firewall port for your current IP via a secret HTTPS link + TOTP
+- [class](https://github.com/IEZhu/class): self-hosted platform for a small English class with LiveKit video rooms
+
+## 1C:Enterprise tooling
+
+- [Nikita](https://github.com/IEZhu/Nikita): exports 1C event logs to ClickHouse, Solr and Redis
+- [Loggie](https://github.com/WonderMr/Loggie): 1C 8.3 extension that logs before/after data changes to the event log
+- [C1Updater](https://github.com/WonderMr/C1Updater): PowerShell script for unattended 1C 8.3 configuration updates
+- [bash1c](https://github.com/WonderMr/bash1c): Bash and Perl scripts to analyse 1C tech logs and event logs
+- [gobbix](https://github.com/WonderMr/gobbix): Go Windows service that checks 1C infobase availability and sends Telegram alerts
+- [ZH1C](https://github.com/WonderMr/ZH1C): 1C 8.3 helper extension
+- [Linter1](https://github.com/WonderMr/Linter1): experimental OneScript formatter for 1C BSL code
